@@ -33,4 +33,5 @@
 3. Нажать «Запуск»
 4. Выбрать платформу (Windows или Android)
 
+<img width="1896" height="999" alt="изображение" src="https://github.com/user-attachments/assets/afa75511-3cb7-4447-94f6-0357b19b0951" />
 
